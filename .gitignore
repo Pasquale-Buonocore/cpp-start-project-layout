@@ -1,0 +1,45 @@
+# Environment files
+####################
+.env
+.env.local
+.env.*.local
+
+# C++
+######
+build/
+*.obj
+*.o
+*.lo
+*.la
+*.al
+*.libs
+*.so
+*.so.*
+*.dylib
+*.lib
+*.a
+*.la
+*.lo
+*.lai
+*.ii
+
+# Archives
+##########
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+*.gz
+*.7z
+*.xz
+
+# Compiled source
+##################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.idb
+*.pdb
