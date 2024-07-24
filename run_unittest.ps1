@@ -1,5 +1,5 @@
 # Constants
-$HOST_PROJECT_PATH = "C:\\Mocking_example"
+$HOST_PROJECT_PATH = Get-Location
 $IMAGE_NAME = "cpp-gtest-docker-env"
 
 # Build the Docker image
